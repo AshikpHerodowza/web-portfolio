@@ -77,7 +77,14 @@ border-image: linear-gradient(180deg tomato orange)  ;
 #full-srack1{
     
 border-left: 7px  cyan solid;
+
 border-image: linear-gradient(180deg blue cyan)  ;
 
 
+}
+
+footer{
+
+    color: black;
+    text-align: center;
 }
