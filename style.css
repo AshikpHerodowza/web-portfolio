@@ -54,3 +54,30 @@ p{
     background-repeat: no-repeat;
      background-position: right;
 }
+.orange{
+    color: orange;
+}
+.single{
+    box-shadow: 10px 20px 40px pink;
+    border: 5px;
+    border-radius: 5px;
+    height: 50%;
+    background-color: white;
+}
+.last{
+    background-image: url("images/exp-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+    
+}
+#full-srack{
+border-left: 7px orange solid;
+border-image: linear-gradient(180deg tomato orange)  ;
+}
+#full-srack1{
+    
+border-left: 7px  cyan solid;
+border-image: linear-gradient(180deg blue cyan)  ;
+
+
+}
